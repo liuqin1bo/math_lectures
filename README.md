@@ -1,7 +1,8 @@
 # math_lectures(数学讲座)
 ## 1. Lecture one: : 素数定理的纯分析证明方法介绍
 **Time and places:** 9am-11am, 2022.5.13, 东7-209  
-**Lecturer:** 刘勤波
+**Lecturer:** 刘勤波  
+**Lecture notes:** ```./resources/lecture1.pdf```
 ### 内容大纲:
 * 历史背景: 首先由高斯(1792-1793)发现(猜想), 狄利克雷(1838)、切比雪夫(1840-1850)等数学家都曾尝试给出证明, 其中切比雪夫是首个使用Riemann－Zeta函数来研究该问题的数学家，1896年两位数学家，Hadamard和 de la Vallée Poussin，几乎同时独立的给出了完整的证明，证明篇幅较长并且都使用了Riemann－Zeta函数。
 
